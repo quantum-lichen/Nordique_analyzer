@@ -1,0 +1,58 @@
+{
+  "name": "Nordique LMC",
+  "version": "1.0.0",
+  "description": "Multi-AI synthesis tool based on Least Model Complexity (LMC) theory to analyze consensus, divergences, and unique insights across different text models",
+  "type": "streamlit-app",
+  "author": {
+    "name": "Bryan Ouellette",
+    "email": "lmc.theory@gmail.com",
+    "github": "@quantum-lichen",
+    "bluesky": "@symbion.bsky.social"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quantum-lichen/nordique-lmc"
+  },
+  "keywords": [
+    "multi-ai",
+    "consensus",
+    "lmc",
+    "ceml",
+    "cognitive-entropy",
+    "streamlit",
+    "synthesis",
+    "ai-comparison"
+  ],
+  "license": "Apache-2.0",
+  "python_version": ">=3.8",
+  "dependencies": {
+    "streamlit": ">=1.28.0",
+    "pandas": ">=2.0.0",
+    "numpy": ">=1.24.0"
+  },
+  "features": {
+    "multi_ai_analysis": true,
+    "consensus_detection": true,
+    "divergence_analysis": true,
+    "emergent_insights": true,
+    "export_json": true,
+    "export_csv": true,
+    "presets": ["standard", "académique", "créatif", "strict"]
+  },
+  "theory": {
+    "name": "CEML",
+    "full_name": "Cognitive Entropy Minimization Law",
+    "formula": "J(s) = C(s|Ω) / (H(s) + ε)",
+    "reference": "https://github.com/quantum-lichen/Lichen-Universe-Unified-V2/tree/main/CEML"
+  },
+  "related_projects": {
+    "lichen_universe": "https://github.com/quantum-lichen/Lichen-Universe-Unified-V2",
+    "hnp": "https://github.com/quantum-lichen/Lichen-Universe-Unified-V2/tree/main/harmonic-network-protocol",
+    "tzolkin_crypto": "https://quantum-lichen.github.io/universal-language-tzolkin/"
+  },
+  "deployment": {
+    "streamlit_cloud": true,
+    "heroku": true,
+    "docker": true
+  }
+}
