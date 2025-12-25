@@ -1,9 +1,18 @@
-
 # 🧠 Nordique LMC
 
 **Analyse Multi-IA par Complexité Minimale (Least Model Complexity)**
 
 Application Streamlit pour synthétiser et analyser le consensus entre multiples réponses d'IA basée sur la théorie **CEML** (Cognitive Entropy Minimization Law).
+
+---
+
+### 🚀 DÉMO LIVE
+
+**Cliquez sur le bouton ci-dessous pour tester l'application immédiatement :**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nordiqueanalyzer-sabhaqyz6qfh4ef66lxbd2.streamlit.app/)
+
+> *Lien direct : [https://nordiqueanalyzer-sabhaqyz6qfh4ef66lxbd2.streamlit.app/](https://nordiqueanalyzer-sabhaqyz6qfh4ef66lxbd2.streamlit.app/)*
 
 ---
 
@@ -38,15 +47,7 @@ Où:
 
 ---
 
-### 🧪 Démo Live
-
-**Essayez l'application maintenant :**
-
-> *Aucune installation requise. Cliquez et analysez.*
-
----
-
-## 🚀 Installation
+## 🚀 Installation (Local)
 
 ### Prérequis
 
